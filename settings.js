@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~NwJ22aJS#uBdofEr3kPkTH3m91TyHyTo2512kLQJfFjU7EIbsEXo",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~08ZWATwI#D2LkpzmZR5GB25yLP9t-iMPQAndA6W3Ma_H68_RsqPk",
 // add your Session Id ,session id starts with MALVIN-XD~
 
 PREFIX: process.env.PREFIX || ".",
@@ -17,7 +17,7 @@ BOT_NAME: process.env.BOT_NAME || "𒁍͟͟͞͞ » ͥ𓆩͓𝐒𝐇𝐀͢𝐑�
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react   
 
-STICKER_NAME: process.env.STICKER_NAME || "✦MALVIN-XD✦",
+STICKER_NAME: process.env.STICKER_NAME || "✦Sharjeel-Prinse✦",
 // type sticker pack name  
 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
